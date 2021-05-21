@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "50670408925",
+    "firebase_url": "https://raksha-cd146-default-rtdb.firebaseio.com",
+    "project_id": "raksha-cd146",
+    "storage_bucket": "raksha-cd146.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:50670408925:android:2137c06bbb9664a9d8b734",
+        "android_client_info": {
+          "package_name": "com.example.raksha"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "50670408925-eloa8dtvrb9sf3s5bcoaa9tkbrc3ijeo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDY-ZBXjqQYHnzgDrDkBvbmaNmOyC-VAjg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "50670408925-eloa8dtvrb9sf3s5bcoaa9tkbrc3ijeo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
