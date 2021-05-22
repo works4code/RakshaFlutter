@@ -6,5 +6,7 @@ const String error_valid_email = "Email must be valid";
 const String error_required_name = "Please Enter Name";
 const String error_required_age = "Please Enter Age";
 const String error_required_dob = "Please Select Date of Birth";
+const String error_required_screening = "Please Select Last Screening Date";
+const String error_required_bse = "Please Select Last BSE Date";
 const String error_required_mobile_number = "Please Enter Mobile Number";
 const String error_valid_mobile_number = "Please Enter Valid Mobile Number";

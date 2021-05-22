@@ -21,7 +21,7 @@ class DashBoardScreen extends StatelessWidget {
     return Scaffold(
       backgroundColor: backgroundColor,
       body: StreamBuilder(
-          initialData: dashboardScreenBloc.getPageNoError(0),
+          initialData: dashboardScreenBloc.getPageNoError(1),
           stream: dashboardScreenBloc.pageNoStream,
           builder: (context, snapshot) {
             return Stack(

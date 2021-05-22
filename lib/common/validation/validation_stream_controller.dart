@@ -38,3 +38,7 @@ String ageValidationMsg(String age) =>
 
 String dobValidationMsg(String dob) =>
     dob.isEmpty || dob == "" ? error_required_dob : "";
+String lastScreeningValidationMsg(String screening) =>
+    screening.isEmpty || screening == "" ? error_required_screening : "";
+String lastBSEValidationMsg(String bse) =>
+    bse.isEmpty || bse == "" ? error_required_bse : "";

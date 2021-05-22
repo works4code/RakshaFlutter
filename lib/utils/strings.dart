@@ -34,3 +34,4 @@ const String txt_submit = 'Submit';
 const String txt_logout_label = 'Do you want to Logout?';
 const String txt_registration_successfully = 'Your registration successfully.';
 const String txt_edit_successfully = 'Your Profile Update successfully.';
+const String txt_select_date = 'Please select Last Screening and Last BSE';
